@@ -9,27 +9,24 @@ This is my personal learning journal as I explore the world of C++. I note down 
 
 
 ## Progress Tracker
-
-|  Chapter          Title                                              Status     |
-
-| Chapter 1     Getting Started |                                  ✅  Completed  |
-| Chapter 2     Setting Out to C++ |                               ✅  Completed  |
-| Chapter 3     Dealing with Data |                                🌸  In progress|
-| Chapter 4     Compound Types |                                   ⬜ Not started |
-| Chapter 5     Loops and Relational Expressions |                 ⬜ Not started |
-| Chapter 6     Branching Statements and Logical Operators |       ⬜ Not started |
-| Chapter 7     Functions: C++'s Programming Modules |             ⬜ Not started |
-| Chapter 8     Adventures in Functions |                          ⬜ Not started |
-| Chapter 9     Memory Models and Namespaces |                     ⬜ Not started |
-| Chapter 10    Objects and Classes |                              ⬜ Not started |
-| Chapter 11    Working with Classes |                             ⬜ Not started |
-| Chapter 12    Classes and Dynamic Memory Allocation              ⬜ Not started |
-| Chapter 13    Class Inheritance                                  ⬜ Not started |
-| Chapter 14    Reusing Code in C++                                ⬜ Not started | 
-| Chapter 15    Friends, Exceptions, and More                      ⬜ Not started | 
-| Chapter 16    The String Class and the Standard Template Library ⬜ Not started |
-| Chapter 17    Input, Output, and Files                           ⬜ Not started |
-| Chapter 18    Visiting with the New C++ Standard                 ⬜ Not started |
+[x] Chapter 1: Getting Started
+[x] Chapter 2: Setting Out to C++
+[/] Chapter 3: Dealing with Data (In Progress 🌸)
+[ ] Chapter 4: Compound Types
+[ ] Chapter 5: Loops and Relational Expressions
+[ ] Chapter 6: Branching Statements and Logical Operators
+[ ] Chapter 7: Functions: C++'s Programming Modules
+[ ] Chapter 8: Adventures in Functions
+[ ] Chapter 9: Memory Models and Namespaces
+[ ] Chapter 10: Objects and Classes
+[ ] Chapter 11: Working with Classes
+[ ] Chapter 12: Classes and Dynamic Memory Allocation
+[ ] Chapter 13: Class Inheritance
+[ ] Chapter 14: Reusing Code in C++
+[ ] Chapter 15: Friends, Exceptions, and More
+[ ] Chapter 16: The String Class and the Standard Template Library
+[ ] Chapter 17: Input, Output, and Files
+[ ] Chapter 18: Visiting with the New C++ Standard
 
 ## Notes Structure
 
